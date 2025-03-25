@@ -3,18 +3,19 @@
 El objetivo de esta práctica es que el alumno ejercite la de aplicación de instrucciones
 de control de un programa y refuerze sus conocimientos en sentencias de control de flujo.
 
-## Equipo #(Numero) 
-(Nombre1) (ApellidoPaterno1) (ApellidoMaterno1)
+EQUIPO 10
 
-(No. Cuenta 1)
+Yanahi Demetrio Torres
 
-(Correo1)
+319169922
 
-(Nombre2) (ApellidoPaterno2) (ApellidoMaterno2)
+Correo: yanahi@ciencias.unam.mx
 
-(No. Cuenta 2)
+Flor de María Tovar Ramírez
 
-(Correo2)
+321128397
+
+Correo: fmariatovarr19@ciencias.unam.mx
 
 ## Instrucciones
 (Escribe las instrucciones de ejecución aquí)
